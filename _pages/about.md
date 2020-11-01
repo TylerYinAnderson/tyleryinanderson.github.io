@@ -57,3 +57,9 @@ Web Scrape and Analysis
 For my this project I scrapped a webpage that had data from a 10K race that took place in Hillsboro, OR on June 2017
 
 [Web Scrape and Analysis](https://github.com/TylerYinAnderson/Web-Scrape-and-Analysis) 
+
+Suicide Rates Overview 1985 to 2016
+======
+Analyzing suicide rates across the globe from 1985 to 2016
+
+[Suicide Rates Overview 1985 to 2016](https://github.com/TylerYinAnderson/suicide-rates-overview-1985-to-2016) 
