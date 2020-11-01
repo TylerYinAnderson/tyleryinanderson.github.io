@@ -16,7 +16,7 @@ Title 1
 
 Title 2
 ======
-1.  [Example link](https://github.com/academicpages/academicpages.github.io) 
+1.  ##[Example link](https://github.com/academicpages/academicpages.github.io) 
 
 Sub-Title 1
 ------
