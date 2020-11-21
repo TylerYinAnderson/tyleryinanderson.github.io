@@ -12,6 +12,6 @@ redirect_from:
 How to Contact Me
 ======
 * 402-618-0441
-* tylergoog@gmail.com
+* <a href="mailto:tylergoog@gmail.com" target="_blank">tylergoog@gmail.com</a>
 
 
