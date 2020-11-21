@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is my site to present my DS Projects"
+title: "Welcome to my Data Science Projects"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
