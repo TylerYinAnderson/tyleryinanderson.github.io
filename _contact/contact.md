@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 4'
 date: 2015-08-14
-permalink: /contact/contact/
+permalink: /contact/
 tags:
   - cool posts
   - category1
